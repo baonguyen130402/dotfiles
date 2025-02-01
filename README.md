@@ -1,4 +1,4 @@
-# Dotfiles README
+# Dotfiles
 
 ## Overview
 
@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/dotfiles.git ~/.dotfiles
+   git clone https://github.com/baonguyen130402/dotfiles.git ~/.dotfiles
    cd ~/.dotfiles
    ```
 
